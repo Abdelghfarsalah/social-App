@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "381840732280",
+    "project_id": "socialapp-7ecfd",
+    "storage_bucket": "socialapp-7ecfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381840732280:android:04097c746323f0ca5fbd8d",
+        "android_client_info": {
+          "package_name": "com.example.dream_social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381840732280-9okist6m18binajt2m964j49sgdshoqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwOushM42tuQRUckF6sCIllUCOXqTzdmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381840732280-9okist6m18binajt2m964j49sgdshoqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381840732280:android:07181b7ca599f8515fbd8d",
+        "android_client_info": {
+          "package_name": "com.example.dreams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381840732280-9okist6m18binajt2m964j49sgdshoqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwOushM42tuQRUckF6sCIllUCOXqTzdmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381840732280-9okist6m18binajt2m964j49sgdshoqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
